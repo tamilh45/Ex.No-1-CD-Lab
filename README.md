@@ -22,7 +22,7 @@ To write a C program to implement a symbol table.
 8. Stop the program.
 
 # PROGRAM:
-
+```
 #include <iostream>
 #include <cctype>
 #include <cstring>
@@ -89,7 +89,7 @@ int main() {
 
     return 0;
 }
-
+```
 # OUTPUT:
 
 <img width="1153" height="490" alt="Screenshot 2025-08-25 112229" src="https://github.com/user-attachments/assets/0803b626-4f59-4a6b-9504-7d219e89280f" />
